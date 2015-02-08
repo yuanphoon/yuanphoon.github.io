@@ -1,0 +1,15 @@
+{
+    "title": "KFC Pulled Chicken",
+    "images": [
+        "images/pulledChicken/pulled_chicken_home.jpg",
+        "images/pulledChicken/pulled_chicken_2.jpg",
+        "images/pulledChicken/pulled_chicken_trigger_2.jpg",
+        "images/pulledChicken/pulled_chicken_player.jpg",
+        "images/pulledChicken/pulled_chicken_expand.jpg"
+    ],
+    "role": "Front-end Web Developer",
+    "company": "Fabric",
+    "date": "October 2014",
+    "type": "Single page static microsite",
+    "description": "A fluid responsive website taking advantage of vw units to provide fixed aspect ratio elements. The build also included expanding and collapsing elements as well as media elements. The Pulled Chicken microsite ran a competition through social channels and was active with weekly updates for two months."
+}

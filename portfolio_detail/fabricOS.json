@@ -1,0 +1,10 @@
+{
+    "title": "FabricOS",
+    "video": "videos/fabricOS/FabricOS_demo.mp4",
+    "role": "Front-end Web Developer",
+    "company": "Fabric",
+    "date": "November 2014",
+    "type": "Brand analytics tool",
+    "description": "An in-house agency product which combines brand analytics into a combined solution. The front-end build used jQuery, D3.js and less.",
+    "URL": "https://app.fabricww.com"
+}

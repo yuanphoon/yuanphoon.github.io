@@ -1,0 +1,21 @@
+<div class="portfolio">
+    <nav class="portfolio-nav">
+        <ul>
+            <li ng-class="{ currentFolio: isCurrent('/portfolio/{{folio.id}}')}" ng-repeat="folio in portfolio">
+                <a href="#/portfolio/{{folio.id}}">
+                    {{folio.title}}
+                </a>
+            </li>
+        </ul>
+    </nav>
+    <div class="folio-pane">
+        <li class="portfolio-item" ng-repeat="folio in portfolio">
+            <a href="#/portfolio/{{folio.id}}" back-img="{{folio.imageUrl}}">
+                <div class="thumb-cover-info">
+                    <h2>{{folio.title}}</h2>
+                    <h4>{{folio.snippet}}</h4>
+                </div>
+            </a>
+        </li>
+    </div>
+</div>

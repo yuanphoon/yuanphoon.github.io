@@ -1,0 +1,8 @@
+[
+    {
+        "id": "launch",
+        "date": "08 FEB 2015",
+        "title": "Porfolio launch",
+        "body": "<p>I began this personal portfolio with specific goals in mind. A platform to showcase work I had the great opportunity to create, a blog to express personal opinions and ultimately a place on the internet I could play around in. Although more can be done with this build, I feel as though every one of those goals has been achieved and its time to put this portfolio live in a v1.0 state.</p><p>That doesn't mean that development will stop though. There are many things I still want and can do beyond content updates. I still have a jumbotron on the front-page with a blank slate grey background. I originally thought to put a HTML5 video element as a background with a video of me typing away, but it turns out that's actually really boring. I still quite like the box there but I do want to use it as a screen to display something.</p><p>For now I'm content with the build as is and am very excited to continually add more to it.</p>"
+    }
+]

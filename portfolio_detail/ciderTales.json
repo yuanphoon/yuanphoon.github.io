@@ -1,0 +1,13 @@
+{
+    "title": "Cider Tales",
+    "images": [
+        "images/ciderTales/ciderTales_1.jpg",
+        "images/ciderTales/ciderTales_2.jpg",
+        "images/ciderTales/ciderTales_3.jpg"
+    ],
+    "role": "Front-end Web Developer",
+    "company": "Fabric",
+    "date": "February 2015",
+    "type": "Angular SPA",
+    "description": "An Angular Single Page Application for Heineken to celebrate the history of cider. The build involved a customised carousel which contains touch swipte controls and keyboard controls."
+}
