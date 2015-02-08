@@ -1,0 +1,9 @@
+<div class="blog">
+
+    <article ng-repeat="blog in blogs">
+        <h5>{{blog.date}}</h5>
+        <h2>{{blog.title}}</h2>
+        <div ng-bind-html="blog.body"></div>
+    </article>
+
+</div>

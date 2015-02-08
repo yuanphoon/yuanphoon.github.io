@@ -1,0 +1,14 @@
+{
+    "title": "Campus Party Gaming Stadium",
+    "images": [
+        "images/gamingStadium/gaming_stadium_1.png",
+        "images/gamingStadium/gaming_stadium_2.jpg",
+        "images/gamingStadium/gaming_stadium_3.png",
+        "images/gamingStadium/gaming_stadium_4.png"
+    ],
+    "role": "Digital Event Coordinator",
+    "company": "Telefónica Digital",
+    "date": "September 2013",
+    "type": "eSports LAN tournament",
+    "description": "An eSports event as a part of the Campus Party digital festival. The Gaming Stadium ran CS:GO, Dota 2, FIFA 13 and Gran Turismo tournaments simultaneously over four days through the evenings. A multi Gbps connection was supplied to 40 machines with their screens broadcasted to three overhead projectors. Winners took away part of a £15,000 prize pool."
+}

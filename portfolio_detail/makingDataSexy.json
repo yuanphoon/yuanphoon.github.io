@@ -1,0 +1,17 @@
+{
+    "title": "Making Data Sexy",
+    "images": [
+        "images/makingDataSexy/mds_1.jpg",
+        "images/makingDataSexy/mds_2.jpg",
+        "images/makingDataSexy/mds_3.jpg",
+        "images/makingDataSexy/mds_4.jpg",
+        "images/makingDataSexy/mds_5.jpg",
+        "images/makingDataSexy/mds_6.jpg",
+        "images/makingDataSexy/mds_7.jpg"
+    ],
+    "role": "Front-end Web Developer",
+    "company": "The Lab, powered by O2",
+    "date": "May 2014",
+    "type": "Rails webapp",
+    "description": "A Rails webapp phone gapped on to Android tablets to help store assistants upsell data tariffs."
+}

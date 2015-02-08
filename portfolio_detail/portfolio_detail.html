@@ -1,0 +1,50 @@
+<div class="portfolio-detail">
+    <nav class="portfolio-nav">
+        <ul>
+            <li ng-class="{ currentFolio: isCurrent('/portfolio/{{folio.id}}')}" ng-repeat="folio in portfolio">
+                <a href="#/portfolio/{{folio.id}}">
+                    {{folio.title}}
+                </a>
+            </li>
+        </ul>
+    </nav>
+    <div class="folio-pane">
+        <h2>{{folioInfo.title}}</h2>
+        <ul class="thumbs">
+            <li ng-repeat="image in folioInfo.images">
+                <img ng-src="{{image}}">
+            </li>
+            <li ng-if="folioInfo.video">
+                <video ng-src="{{folioInfo.video}}" controls muted></video>
+            </li>
+        </ul>
+        <div class="folio-information">
+            <h2>{{folioInfo.title}}</h2>
+            <div class="folio-text">
+                <p>{{folioInfo.description}}</p>
+            </div>
+            <table>
+                <tr>
+                    <td>Role</td>
+                    <td>{{folioInfo.role}}</td>
+                </tr>
+                <tr>
+                    <td>Company</td>
+                    <td>{{folioInfo.company}}</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>{{folioInfo.date}}</td>
+                </tr>
+                <tr>
+                    <td>Type</td>
+                    <td>{{folioInfo.type}}</td>
+                </tr>
+                <tr ng-if="folioInfo.URL">
+                    <td>URL</td>
+                    <td><a ng-href="{{folioInfo.URL}}">{{folioInfo.URL}}</a></td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</div>

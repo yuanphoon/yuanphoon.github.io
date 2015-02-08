@@ -1,0 +1,13 @@
+{
+    "title": "Cinderella",
+    "images": [
+        "images/cinderella/cinderella_1.png",
+        "images/cinderella/cinderella_2.png"
+    ],
+    "video": "videos/cinderella/cinderella_prototype.mp4",
+    "role": "Arduino Developer",
+    "company": "The Lab, powered by O2",
+    "date": "October 2014",
+    "type": "Hardware prototype and Express webapp",
+    "description": "A hardware build consisting of an Arduino with an ethernet shield. The prototype was designed and built to explore the idea of reducing customer effort when it came to selecting handsets. Selection of various criteria via an Express webapp would filter out options to the user with feedback provided by LEDs which changed the glow of cabins which housed handsets."
+}

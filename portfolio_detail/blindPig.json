@@ -1,0 +1,16 @@
+{
+    "title": "Blind Pig",
+    "images": [
+        "images/blindPig/blind_pig_age_gate.jpg",
+        "images/blindPig/blind_pig_1.jpg",
+        "images/blindPig/blind_pig_2.jpg",
+        "images/blindPig/blind_pig_3.jpg",
+        "images/blindPig/blind_pig_4.jpg"
+    ],
+    "role": "Front-end Web Developer",
+    "company": "Fabric",
+    "date": "October 2014",
+    "type": "Promotional static microsite",
+    "description": "An adaptive responsive website with swipe, touch and keyboard controls to cause a 'snap-to' sequence of slides. The build involved multi-layer images and animated fades. The microsite links to Instagram and plays audio beyond the age gate.",
+    "URL": "http://blindpigcider.co.uk/"
+}

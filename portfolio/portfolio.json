@@ -1,0 +1,52 @@
+[
+    {
+        "id": "ciderTales",
+        "title": "Cider Tales",
+        "snippet": "Promotional microsite celebrating the making of Cider.",
+        "imageUrl": "images/ciderTales/ciderTales_1.jpg",
+        "tags": ""
+    },
+    {
+        "id": "pulledChicken",
+        "title": "KFC Pulled Chicken",
+        "snippet": "Promotional microsite for KFC's Pulled Chicken campaign.",
+        "imageUrl": "images/pulledChicken/pulled_chicken_home.jpg",
+        "tags": ""
+    },
+    {
+        "id": "blindPig",
+        "title": "Blind Pig",
+        "snippet": "A promotional microsite teasing the launch of Blind Pig cider",
+        "imageUrl": "images/blindPig/blind_pig_1.jpg",
+        "tags": ""
+    },
+    {
+        "id": "FabricOs",
+        "title": "FabricOS",
+        "snippet": "Brand analytics platform.",
+        "imageUrl": "images/FabricOS/FabricOS.jpg",
+        "tags": ""
+    },
+    {
+        "id": "cinderella",
+        "title": "Cinderella",
+        "snippet": "An interactive Arduino run store display for the high street.",
+        "imageUrl": "images/cinderella/cinderella_2.png",
+        "tags": ""
+    },
+    {
+        "id": "makingDataSexy",
+        "title": "Making Data Sexy",
+        "snippet": "A beta webapp to incentivise the upsell of data tariffs.",
+        "imageUrl": "images/makingDataSexy/mds_2.jpg",
+        "tags": ""
+    },
+    {
+        "id": "campusPartyStadium",
+        "title": "Gaming Stadium",
+        "snippet": "A four day eSports tournament.",
+        "imageUrl": "images/gamingStadium/gaming_stadium_1.png",
+        "tags": ""
+    }
+
+]
