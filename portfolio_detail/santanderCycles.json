@@ -1,0 +1,16 @@
+{
+    "title": "Santander Cycles",
+    "images": [
+        "images/santanderCycles/santanderCycles_1.jpg",
+        "images/santanderCycles/santanderCycles_2.jpg",
+        "images/santanderCycles/santanderCycles_3.jpg",
+        "images/santanderCycles/santanderCycles_4.jpg",
+        "images/santanderCycles/santanderCycles_5.jpg"
+    ],
+    "role": "Front-end Developer",
+    "company": "Hogarth WorldWide",
+    "date": "Ongoing",
+    "type": "Angular app",
+    "description": "A fluid responsive build. The front-end was built with Sass, AngularJS 1.2 and jQuery. The maps on the page were loaded with Google's Maps API JavaScript v3. Santander Cycles is designed to be a hub for competition, events and social media broadcasts about Santander Cycles.",
+    "URL": "http://www.santander-products.co.uk/cycles"
+}

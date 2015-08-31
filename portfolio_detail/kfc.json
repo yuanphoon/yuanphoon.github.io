@@ -1,0 +1,16 @@
+{
+    "title": "KFC UK Website",
+    "images": [
+        "images/kfc/kfc_1.jpg",
+        "images/kfc/kfc_2.jpg",
+        "images/kfc/kfc_3.jpg",
+        "images/kfc/kfc_4.jpg",
+        "images/kfc/kfc_5.jpg"
+    ],
+    "role": "Front-end Developer",
+    "company": "Fabric",
+    "date": "February 2015",
+    "type": "Liferay CMS driven website",
+    "description": "A fluid responsive website with a Liferay CMS back-end. The front-end was built with Sass and jQuery. The map component is loaded in using MapBox. The build involved hvaing to construct about two dozen full-width partials with media queries to ensure responsiveness to mobile.",
+    "URL": "https://www.kfc.co.uk/"
+}

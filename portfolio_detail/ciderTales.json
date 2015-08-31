@@ -9,5 +9,6 @@
     "company": "Fabric",
     "date": "February 2015",
     "type": "Angular SPA",
-    "description": "An Angular Single Page Application for Heineken to celebrate the history of cider. The build involved a customised carousel which contains touch swipte controls and keyboard controls."
+    "description": "An Angular Single Page Application for Heineken to celebrate the history of cider. The build involved a customised carousel which contains touch swipte controls and keyboard controls.",
+    "URL": "http://www.cidertales.co.uk/"
 }

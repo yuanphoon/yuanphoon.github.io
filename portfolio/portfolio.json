@@ -1,5 +1,33 @@
 [
     {
+        "id": "netflixFomo",
+        "title": "Netflix Fomometer",
+        "snippet": "A map of social media conversations focused around Netflix's catalogue",
+        "imageUrl": "images/netflixFomo/netflixFomo_1.jpg",
+        "tags": ""
+    },
+    {
+        "id": "santanderCycles",
+        "title": "Santander Cycles",
+        "snippet": "A hub for activities and events centered around Santander Cycles",
+        "imageUrl": "images/santanderCycles/santanderCycles_1.jpg",
+        "tags": ""
+    },
+    {
+        "id": "santanderProducts",
+        "title": "Santander Products",
+        "snippet": "A catalogue of product pages for Santander",
+        "imageUrl": "images/santanderProducts/santanderProducts_1.jpg",
+        "tags": ""
+    },
+    {
+        "id": "kfc",
+        "title": "KFC UK Website",
+        "snippet": "A new CMS run website for KFC.",
+        "imageUrl": "images/kfc/kfc_1.jpg",
+        "tags": ""
+    },
+    {
         "id": "ciderTales",
         "title": "Cider Tales",
         "snippet": "Promotional microsite celebrating the making of Cider.",

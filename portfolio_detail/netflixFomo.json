@@ -1,0 +1,13 @@
+{
+    "title": "Netflix Fomometer",
+    "images": [
+        "images/netflixFomo/netflixFomo_1.jpg",
+        "images/netflixFomo/netflixFomo_2.jpg"
+    ],
+    "role": "Lead Developer",
+    "company": "Hogarth WorldWide",
+    "date": "Ongoing",
+    "type": "Angular app",
+    "description": "A fluid responsive build. The front-end was built with AngularJS 1.3 and Sass. The maps on the page were loaded with Google's Maps API JavaScript v3. The Netflix Fomometer shows a map of social media conversations about Netflix's catalogue of programmes.",
+    "URL": "http://www.fomometer.co.uk/"
+}

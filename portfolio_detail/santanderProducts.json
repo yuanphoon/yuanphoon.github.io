@@ -1,0 +1,15 @@
+{
+    "title": "Santander Products",
+    "images": [
+        "images/santanderProducts/santanderProducts_1.jpg",
+        "images/santanderProducts/santanderProducts_2.jpg",
+        "images/santanderProducts/santanderProducts_3.jpg",
+        "images/santanderProducts/santanderProducts_4.jpg",
+        "images/santanderProducts/santanderProducts_5.jpg"
+    ],
+    "role": "Front-end Developer",
+    "company": "Hogarth WorldWide",
+    "date": "Ongoing",
+    "type": "A catalogue of standalone builds",
+    "description": "A catalogue of standalone pages for Santander's financial products. Front-end builds need to be built with Internet Explorer 8 compatability in mind. Builds include financial calculators and information sheets."
+}
